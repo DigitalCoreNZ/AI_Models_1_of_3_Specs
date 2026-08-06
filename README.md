@@ -1,2 +1,2 @@
-# Models_1_of_3_Specs
-Specifications for AI Models
+# README: Models 1 of 3 - Specs
+>Specifications for AI Models
